@@ -45,5 +45,4 @@ if __name__ == "__main__":
         operation(int(sys.argv[1]), int(sys.argv[2]))
     else:
         print("AssertionError: only integers")
-
-    
+ 
